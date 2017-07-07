@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+}
+#myApp{
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    font-family: 'Avenir';
+    text-align: center;
+}
+#myApp div{
+    padding-top: 20vh;
+}
+
+.rain{
+    background: url('https://static.pexels.com/photos/1551/field-thunderstorm-rainy-meadow.jpg') top left no-repeat;
+}
+.mist{
+    background: url('https://static.pexels.com/photos/26750/pexels-photo-26750.jpg') top left no-repeat;
+    
+}
+.clouds{
+    background: url('https://static.pexels.com/photos/160225/pexels-photo-160225.jpeg') top left no-repeat;
+}
+.clear{
+    background: url('https://static.pexels.com/photos/87275/nature-landscape-sunrise-ocean-87275.jpeg') top left no-repeat;
+}
